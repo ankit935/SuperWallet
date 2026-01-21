@@ -8005,7 +8005,7 @@ __metadata:
 
 "@web3-wallet/eslint-config@file:plugins/eslint-config::locator=superwallet%40workspace%3A.":
   version: 1.0.0
-  resolution: "@web3-wallet/eslint-config@file:plugins/eslint-config#plugins/eslint-config::hash=6aa668&locator=superwallet%40workspace%3A."
+  resolution: "@web3-wallet/eslint-config@file:plugins/eslint-config#plugins/eslint-config::hash=ef3a39&locator=superwallet%40workspace%3A."
   dependencies:
     "@react-native/eslint-config": 0.74.84
     "@typescript-eslint/eslint-plugin": 7.17.0
@@ -8025,7 +8025,7 @@ __metadata:
     prettier: 3.3.3
   peerDependencies:
     eslint: ">=8.1.0"
-  checksum: 33f02526be0ef1a85b546fe3a0392d6abedb995b19ca0e09f807acc47e41ee31f8cda0a4083bdfbb8c0f544d0646b1a2e4b9a9f0299ac03e7fc1a19dced8864c
+  checksum: 08bc56a72962ac66e0f3a2d8bfbd6258ed4da26e370f49f5250d0fdaabb6a7781650bddac0ee7df648f366eef103c2d2fe2372dca0f2f0c80a514a243982b656
   languageName: node
   linkType: hard
 
@@ -15714,8 +15714,8 @@ __metadata:
 
 "kraken-wallet-cryptoicons@file:assets/kraken-wallet-cryptoicons::locator=superwallet%40workspace%3A.":
   version: 1.0.0
-  resolution: "kraken-wallet-cryptoicons@file:assets/kraken-wallet-cryptoicons#assets/kraken-wallet-cryptoicons::hash=5fff0b&locator=superwallet%40workspace%3A."
-  checksum: 58dca3844605c4b7f8695777a2bf349a92671aed9fe06cef8469cb02d634629851b90e0b4902dba4720d5e21c7abd4bf78e54b74c817df97141047532c3de7d1
+  resolution: "kraken-wallet-cryptoicons@file:assets/kraken-wallet-cryptoicons#assets/kraken-wallet-cryptoicons::hash=906708&locator=superwallet%40workspace%3A."
+  checksum: ca503586a1f9035fd8526990b41bbb1ad8d2f52e41ac042aa49c8fd98679596a4904d4cc599996a7c70922cd8c0e49a248075fdcd038d0eb2b2c17253ba0f420
   languageName: node
   linkType: hard
 
@@ -15727,8 +15727,8 @@ __metadata:
 
 "kraken-wallet-network-icons@file:assets/kraken-wallet-network-icons::locator=superwallet%40workspace%3A.":
   version: 1.0.0
-  resolution: "kraken-wallet-network-icons@file:assets/kraken-wallet-network-icons#assets/kraken-wallet-network-icons::hash=e188bd&locator=superwallet%40workspace%3A."
-  checksum: 8c2cd4eec885fd560f181bb853d76c4e34c79bd6e1ec67f95fc8d3eba44cf79e4f5db1de511977166fa5fa5581dadb85781d5c537dccef8ac6e91d0f64837c1d
+  resolution: "kraken-wallet-network-icons@file:assets/kraken-wallet-network-icons#assets/kraken-wallet-network-icons::hash=016210&locator=superwallet%40workspace%3A."
+  checksum: 4e8567d18e89042f7b12c6e9baeb4d39045eac9c1afabf2e32ce51552e2ded16391f3a5611aa91557b45dd82461033bffd4be2e6b8d2ecd0d9717c556953dad2
   languageName: node
   linkType: hard
 
